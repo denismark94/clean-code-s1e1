@@ -38,10 +38,12 @@
   margin:0; 
   padding: 0px; 
 }
-.task-list-item, .list-header {
+.task-list-item,
+.list-header {
   list-style:none; 
 }
-.input, .btn{
+.input,
+.btn {
   outline:none; 
 }
 .btn {
